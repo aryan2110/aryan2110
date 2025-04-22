@@ -1,6 +1,7 @@
 # 💫 About Me:
-I am currently studying
+Hi there 👋 I'm Aryan!
 
+🎓 I'm a BTech Computer Science student.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-gupta-21ag) 
