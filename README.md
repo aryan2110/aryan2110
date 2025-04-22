@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 I'm Aryan!
+Hi there 👋 
 
 🎓 I'm a BTech Computer Science student.
 
