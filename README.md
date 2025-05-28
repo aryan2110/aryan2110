@@ -19,10 +19,6 @@ Hi there, I'm Aryan Gupta 👋
 [![HackerRank](https://img.shields.io/badge/HackerRank-%2310B981.svg?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/g_aryan2110)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/aryan2110)
 
-## 🏎️ Beyond Code
-- 📚 Love sci-fi books
-- ☕ Team Tea forever
-- 🏁 Formula 1 addict – Red Bull Racing x Max Verstappen
   
 ---
 
